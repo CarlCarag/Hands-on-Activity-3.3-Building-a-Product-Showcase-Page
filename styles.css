@@ -29,7 +29,7 @@ main {
 }
 /* Footer styles */
 footer {
-    background-color: lightgray;
+    background-color: rgb(241, 204, 102);
     padding: 10px;
     text-align: center;
     position: fixed;
@@ -116,7 +116,7 @@ footer {
 }
 
 .contact-form form {
-    border: 1px solid #ccc;
+    border: 1px solid #f9f89c;
     padding: 20px;
     border-radius: 10px;
 }
@@ -127,7 +127,7 @@ footer {
 
 .contact-form legend {
     font-weight: bold;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #f9f9d0;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
@@ -156,6 +156,7 @@ footer {
     background-color: #45a049;
 
 }
+
 
 
 
