@@ -7,7 +7,7 @@ body {
 
 /* Header styles */
 header {
-    background: url("C:\Users\Cj Carag\Downloads\Cookie.png") no-repeat center center;
+    background: url("Cookie.png") no-repeat center center;
     background-size: cover;
     padding: 60px;
     text-align: center;
@@ -134,4 +134,5 @@ footer {
 
 .contact-form button:hover {
     background-color: #45a049;
+
 }
