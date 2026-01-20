@@ -50,6 +50,15 @@ footer {
     overflow: hidden;
 }
 
+.product 2 {
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #000;
+    margin: 10px;
+    background-color: #008000;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
 
 .product-image {
     position: relative;
@@ -138,6 +147,7 @@ footer {
     background-color: #45a049;
 
 }
+
 
 
 
