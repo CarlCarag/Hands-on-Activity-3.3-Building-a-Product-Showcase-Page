@@ -7,7 +7,7 @@ body {
 
 /* Header styles */
 header {
-    background: url("Cookie.png") no-repeat center center;
+    background: url("Bike.png") no-repeat center center;
     background-size: cover;
     padding: 60px;
     text-align: center;
@@ -138,4 +138,5 @@ footer {
     background-color: #45a049;
 
 }
+
 
